@@ -26,4 +26,12 @@ Welcome to the official repository for **Nexus '26**, a futuristic, highly inter
 
 ## 💻 How to Run This Project Locally
 
-Since this entire project is bundled into a single self-contained file for maximum optimization, running it is incredibly simple .
+Since this entire project is bundled into a single self-contained file for maximum optimization, running it is incredibly simple.
+
+1. **Clone the repository:**
+ ```bash
+ git clone https://github.com/amansingh2006-hacker/techfest3d.git
+
+
+
+
