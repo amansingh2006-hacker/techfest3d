@@ -1,8 +1,5 @@
 # techfest3d
 Design and develop a 3D interactive website for Techfest. Think 3D scroll animations, interactive objects and dynamic transitions. You have full creative freedom on the concept and visuals.
-# Nexus '26 - Interactive 3D Techfest Website
-
-Welcome to the official repository for **Nexus '26**, a futuristic, highly interactive 3D landing page designed for a premium tech festival. The website replaces traditional flat layouts with a dynamic 3D environment that users can explore simply by scrolling.
 
 ## ✨ Features
 
