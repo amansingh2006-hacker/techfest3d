@@ -27,7 +27,7 @@ Since this entire project is bundled into a single self-contained file for maxim
 
 1. **Clone the repository:**
  ```bash
- git clone https://github.com/amansingh2006-hacker/techfest3d.git
+ git clone https://github.com/amansingh2006-hacker/index.git
 
 
 
